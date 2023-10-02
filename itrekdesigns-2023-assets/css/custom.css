@@ -20,6 +20,11 @@ Custom CSS
   justify-content: space-between;
 }
 
+.free-quote-btn {
+  font-size: 20px;
+  background: #222222;
+}
+
 @media only screen and (min-width: 576px) and (max-width: 767px),
   (max-width: 575px) {
   .section-spacing-custom {
@@ -30,7 +35,7 @@ Custom CSS
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .section-spacing-bottom-custom {
-    padding-bottom: 120px;
+    padding-bottom: 100px;
     padding-top: 80px;
   }
 }
