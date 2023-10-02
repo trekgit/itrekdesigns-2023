@@ -27,10 +27,9 @@ Custom CSS
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px),
-  (min-width: 360px),
   (max-width: 575px) {
   .menu__bar {
-    display: none;
+    display: inherit;
   }
   .section-spacing-custom {
     padding-top: 80px;
