@@ -26,6 +26,11 @@ Custom CSS
   color: #ffffff;
 }
 
+.top-section-banner {
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
 @media only screen and (min-width: 576px) and (max-width: 767px),
   (max-width: 575px) {
   .menu__bar {
@@ -34,6 +39,9 @@ Custom CSS
   .section-spacing-custom {
     padding-top: 80px;
     padding-bottom: 0px;
+  }
+  .top-section-banner {
+    flex-wrap: nowrap;
   }
 }
 
