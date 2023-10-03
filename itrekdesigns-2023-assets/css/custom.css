@@ -52,7 +52,8 @@ Custom CSS
   .menu__bar {
     display: inherit !important;
   }
-  .free-quote-btn {
+  .free-quote-btn,
+  .top-banner-right-tp {
     display: none;
   }
   .section-spacing-custom {
@@ -68,6 +69,7 @@ Custom CSS
   .top-banner-right {
     width: 100%;
     flex-wrap: wrap;
+    margin-top: 40px;
   }
   .top-banner-right-tp {
     height: 70%;
