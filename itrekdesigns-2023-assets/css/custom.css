@@ -41,7 +41,7 @@ Custom CSS
     padding-bottom: 0px;
   }
   .top-section-banner {
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
   }
 }
 
