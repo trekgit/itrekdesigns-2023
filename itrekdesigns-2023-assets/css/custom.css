@@ -56,6 +56,9 @@ Custom CSS
     padding-top: 80px;
     padding-bottom: 0px;
   }
+  .top-banner-header {
+    text-align: center;
+  }
   .top-section-banner {
     flex-wrap: wrap;
   }
