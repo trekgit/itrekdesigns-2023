@@ -57,6 +57,15 @@ Custom CSS
   padding: 0;
 }
 
+.top-banner-main-image {
+  border-radius: 30px;
+  filter: drop-shadow(2px 4px 6px black);
+}
+
+.top-banner-main-button {
+  position: inherit;
+}
+
 @media only screen and (min-width: 576px) and (max-width: 767px),
   (max-width: 575px) {
   .menu__bar {
@@ -103,10 +112,6 @@ Custom CSS
   }
   .top-banner-header-space {
     margin-top: 0;
-  }
-  .top-banner-main-image {
-    border-radius: 30px;
-    filter: drop-shadow(2px 4px 6px black);
   }
 }
 
