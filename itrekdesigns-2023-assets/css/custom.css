@@ -31,6 +31,22 @@ Custom CSS
   justify-content: space-between;
 }
 
+.top-banner-right {
+  width: 33%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.top-banner-right-tp {
+  padding: 0;
+}
+
+.top-banner-right-bt {
+  padding: 0;
+}
+
 @media only screen and (min-width: 576px) and (max-width: 767px),
   (max-width: 575px) {
   .menu__bar {
