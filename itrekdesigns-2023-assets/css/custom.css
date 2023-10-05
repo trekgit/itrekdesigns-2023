@@ -65,6 +65,20 @@ Custom CSS
 .top-banner-main-button {
   position: inherit;
 }
+/*home section 2*/
+.section-1-home {
+  padding: 220px 0px;
+}
+.section-2-home {
+  background-image: url(https://trekgit.github.io/itrekdesigns-2023/itrekdesigns-2023-assets/img/bg/grid-line-4.png);
+  background-color: #222222;
+  padding: 120px, 0px;
+}
+
+/*thank you page*/
+.tpl__item-center {
+  margin-top: 100px;
+}
 
 @media only screen and (min-width: 576px) and (max-width: 767px),
   (max-width: 575px) {
