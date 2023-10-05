@@ -67,7 +67,8 @@ Custom CSS
 }
 /*home section 2*/
 .section-1-home {
-  padding: 220px 0px;
+  padding-top: 0px;
+  padding-bottom: 220px;
 }
 .section-2-home {
   background-image: url(https://trekgit.github.io/itrekdesigns-2023/itrekdesigns-2023-assets/img/bg/grid-line-4.png);
